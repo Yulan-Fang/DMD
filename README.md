@@ -1,2 +1,2 @@
 # DMD
-My DMD code
+My DMD code for testing.
